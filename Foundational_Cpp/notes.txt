@@ -1,0 +1,110 @@
+g++ main.cpp -std=c++17 -O2 -Wall -Wextra
+What does this command mean?
+g++ main.cpp -std=c++17 -O2 -Wall -Wextra
+
+
+Let’s break it piece by piece (this is interview-level understanding).
+
+🔹 g++
+
+The GNU C++ compiler
+
+Takes your C++ code → machine code (exe)
+
+🔹 main.cpp
+
+Your source file
+
+🔹 -std=c++17
+
+👉 Use C++17 standard
+
+Why?
+
+Most FAANG interviews assume C++17
+
+Enables:
+
+auto
+
+unordered_map
+
+vector, lambda
+
+Structured bindings
+
+Without this flag, compiler may default to older C++.
+
+🔹 -O2
+
+👉 Optimization level 2
+
+Makes your code:
+
+Faster
+
+More efficient
+
+Does NOT change correctness
+
+Same flag used in:
+
+Competitive programming
+
+Production builds
+
+For interviews:
+
+Shows you know professional compilation
+
+Matches real-world performance expectations
+
+🔹 -Wall
+
+👉 Enable common warnings
+
+Finds bugs like:
+
+Unused variables
+
+Missing return statements
+
+Implicit conversions
+
+⚠️ Warnings ≠ errors
+But catching them early = better code
+
+🔹 -Wextra
+
+👉 Enable extra warnings
+
+Catches:
+
+Suspicious logic
+
+Hidden bugs
+
+Bad practices
+
+FAANG interviewers LOVE clean, warning-free code.
+
+🎯 Why I suggested this exact command
+
+Because it:
+
+Matches industry + interview standards
+
+Trains you to write clean, correct C++
+
+Catches bugs early
+
+Builds professional habits
+
+If your code compiles with -Wall -Wextra → it’s usually solid.
+
+🔥 What happens if you skip these?
+Skip	Result
+-std=c++17	STL features may fail
+-Wall	Silent bugs
+-Wextra	Missed edge cases
+-O2	Slower runtime (minor but real)

@@ -3,7 +3,7 @@ using namespace std;
 
 int main(){
 
-    float num1, num2;
+    int num1, num2;
 
     cout << "Enter the first number > " << endl;
     cin >> num1;
@@ -22,6 +22,9 @@ int main(){
 
     // Division
     cout << "Division of the two numbers is: " << num1 / num2 << endl;
+
+    // Modulo
+    cout << "Division of the two numbers is: " << num1 % num2 << endl;
 
     return 0;
 }

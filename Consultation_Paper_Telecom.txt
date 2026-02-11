@@ -1,0 +1,156 @@
+Consultation Paper No. 15/2016 
+Consultation Paper  
+on 
+Complaints/ Grievance Redressal in the Telecom Sector 
+28th July, 2016 
+Mahanagar Doorsanchar Bhawan 
+Jawahar Lal Nehru Marg 
+New Delhi-110002 
+Website: www.trai.gov.in 
+1 
+2 
+ 
+  
+Stakeholders are requested to furnish their comments 
+to the Advisor (Consumer Affairs), TRAI by 18 /08/2016 
+and counter comments by 26/08/2016. Comments and 
+counter comments would be posted on TRAI’s website 
+www.trai.gov.in. The comments/counter comments in 
+electronic form may be sent by e-mail to 
+catrai@gmail.com.  
+ 
+For any clarification/ information, Shri Sanjeet Singh, 
+Advisor (Consumer Affairs) may be contacted at Tel. No. 
++91-11-23237024 , Fax: +91-11-23237749 
+3 
+ 
+Content 
+ 
+ 
+INTRODUCTION ...................................................................................................................................... 5 
+CHAPTER-1 EXISTING COMPLAINT REDRESSAL SYSTEM AND ITS EFFICACY ............ 9 
+CHAPTER-2 COMPLAINT REDRESSAL SYSTEMS ELSEWHERE ......................................... 15 
+CHAPTER-3 ISSUES FOR CONSULTATION ................................................................................. 22 
+LIST OF ACRONYMS ............................................................................................................................ 23 
+Annex A .................................................................................................................................................... 24 
+ 
+  
+4 
+ 
+  
+INTRODUCTION 
+1. The telecom sector in India has grown rapidly in last decades. From a 
+subscriber base of around 90 million in March, 2006, the number of 
+telecom subscribers in India reached around 1.04 billion by June 2016. 
+These subscribers filed approximately 10.23 million complaints just in the 
+Jan-March Quarter in 2016 with the Telecom Service Providers (TSPs). The 
+complaints were on account of wrong billing, indifferent or poor quality of 
+service, non-provision of contracted services, etc. Unsatisfactory resolution 
+of the consumer complaints, by the TSPs, is resulting in complaints and 
+grievances being forwarded to the Telecom Regulatory Authority of India 
+(TRAI) and Department of Telecom (DoT) on a regular basis. 
+2. It is imperative that consumer complaints and public grievances in the 
+telecom space are resolved in a timely, efficient and cost-effective manner 
+through a system that is easily available all across the country. Without 
+such a system, benefits of the telecom revolution, which encompasses 
+provision of a variety of services, such as banking, money transfer, govt. 
+services, to the public will miss the intended target.     
+3. Telecom Regulatory Authority of India (TRAI) Act was enacted with the 
+objective to protect the interest of consumers of the telecom sector and to 
+promote and ensure orderly growth of telecom sector. The Preamble of this 
+Act, reads: 
+“An Act to provide for the establishment of the [Telecom Regulatory 
+Authority of India and the Telecom Disputes Settlement and 
+Appellate Tribunal to regulate the telecommunication services, 
+adjudicate disputes, dispose of appeals and to protect the 
+interests of service providers and consumers of the telecom 
+5 
+sector, to promote and ensure orderly growth of the telecom sector,] 
+and for matters connected therewith or incidental thereto.” 
+Emphasis added 
+However, the TRAI Act does not envisage redressal of individual consumer 
+complaints/ grievances by the Authority. It provides that the Authority shall 
+lay down standards of quality of service to be provided by the service 
+providers and ensure that the quality of service is actually provided. The 
+Authority, in discharge of this function, has mandated several measures, 
+through Regulations, Tariff Orders, and Directions that secure and protect 
+the consumer interest including on how the TSPs must resolve the 
+consumer complaints/ grievances. Regular independent audits and 
+customer surveys are conducted by TRAI to monitor actual implementation.  
+Adherence to the Authority’s Regulations regarding consumer complaint 
+redressal is enforced by the DoT, which in the licensing conditions for the 
+TSPs stipulates “All complaints of subscribers in this regard will be 
+addressed/ handled as per the orders or regulations or directions issued by 
+the Licensor or TRAI from time to time.” 
+4. In year 2000, the TRAI Act 1997 was amended to create the Telecom 
+Disputes Settlement and Appellate Tribunal (TDSAT) which has been given 
+the responsibility of dispute resolution in Section 14 of the Act.  However, 
+the TDSAT has been given powers to adjudicate any dispute only - 
+(i) between a licensor and a licensee; 
+(ii) between two or more service providers; 
+(iii) between a service provider and a group of consumers; 
+The same Section places matters relating to the complaint of an individual 
+consumer maintainable before a Consumer Disputes Redressal Forum or a 
+Consumer Disputes Redressal Commission or the National Consumer 
+Redressal Commission established under section 9 of the Consumer 
+Protection Act, 1986 (68 of 1986) beyond the powers of the TDSAT to 
+6 
+consider. Thus, in the present framework, TRAI has laid down the 
+regulations for quality of service and mechanism for redressal of consumer 
+grievances and complaints; the DoT has through licensing conditions 
+enjoined upon the TSPs to adhere to these regulations and the TSPs manage 
+both - the complaint redressal as well as the appellate mechanisms, to 
+resolve consumer complaints/ grievances. 
+As stated above, a consumer has the option to file a case with 
+Consumer Disputes Redressal Forum or a Consumer Disputes Redressal 
+Commission or the National Consumer Redressal Commission in case he or 
+she is not satisfied with the resolution of the complaint by his/her telecom 
+service provider. Since amount involved in most of the consumer complaints 
+related to telecom service is very meagre in comparison to the litigation cost 
+and in view of the time taken by the Consumer Courts/Forums in deciding 
+the case, consumers in general are not willing to approach the Consumer 
+Courts/Forums for redressal of their complaints.  
+5. In 2004, when the subscriber numbers were far fewer, considering this 
+framework inadequate the Authority had released a ‘Consultation Paper on 
+Establishment of the Office of Ombudsman in the Telecommunication 
+Sector’1. After the stakeholder consultation process, the Authority had made 
+the following recommendations2 to the Government: 
+(a) Establishment of an Ombudsman would be a desirable development 
+and such an institution needs to be established; 
+(b) Ombudsman to be created by amendment to Licence; 
+(c) 
+Once the proposal is accepted in principle, the locations and staffing 
+pattern etc. of the Ombudsman can be finalized by the Government, in 
+consultation with the Authority;  
+1Consultation Paper No. 1/2004 dated 07.01.2004 
+2Recommendations on Establishment of Office of Ombudsman in the Telecommunication 
+Industry dated 10.08.2004 
+7 
+(d) Funding of the Office of Ombudsman may be provided from the licence 
+fee collected annually from the telecom sector. A very negligible 
+percentage of the revenue of the service providers (for less than 0.01%) 
+will be sufficient to meet the expenses; and   
+(e) 
+Ombudsman should handle and investigate all unresolved complaints 
+within a time frame. The Ombudsman would facilitate through its 
+mediation, the terms for the resolution, settlement and/or withdrawal 
+of the complaints. The unresolved complaints will inevitably go to the 
+Consumer Courts. 
+6. These recommendations were, however, not agreed to by the Government3.  
+7. The Indian telecom sector has since 2004 witnessed phenomenal growth; it 
+is poised to becoming one of the largest in the world. It has reached all 
+corners of the country and populace. There has been a sea change in the 
+profile of the Indian telecom consumers. Today a mobile phone is necessary 
+for all sections of the society whatever their wherewithal be. The role and 
+impact of telecommunication services has metamorphosed from being a 
+communication tool to a critical instrument for the social and economic 
+development of the country.  It is therefore appropriate to revisit the issue of 
+redressal of individual consumer complaints and grievances in the telecom 
+space. This paper is issued with this objective.  This Paper presents an 
+overview of the existing consumer grievance mechanisms and its efficacy; 
+the mechanisms in place in other countries and within India in other 
+sectors of similar size and impact; and the problem areas. It seeks views, 
+opinions and comments for possible options/ alternatives from 
+stakeholders.  
+3Annex A 
+8
